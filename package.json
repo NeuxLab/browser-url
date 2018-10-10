@@ -1,0 +1,23 @@
+{
+  "name": "browser-url",
+  "main": "./lib/browser-url",
+  "version": "1.0.0",
+  "description": "Get source url when copying text from browser.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/NeuxLab/browser-url",
+  "license": "MIT",
+  "engines": {
+    "cc": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "loadedIn": [
+    "main-process"
+  ],
+  "standard": {
+    "globals": [
+      "cc"
+    ]
+  }
+}
